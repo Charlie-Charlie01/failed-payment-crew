@@ -1,0 +1,8 @@
+{
+  "ticket_id": "t002",
+  "created_at": "2026-10-24T10:00:00+01:00",
+  "channel": "email",
+  "account_id": "ACC-1021",
+  "transaction_ref": "TXN-999999",
+  "message": "I was debited 10,000 for a transfer that never arrived. Ref TXN-999999."
+}

@@ -1,0 +1,6 @@
+ref,account_id,amount,currency,status,failure_code,customer_debited,reversal_status,destination_bank,destination_account,created_at,updated_at,duplicate_of_ref
+TXN-000103,ACC-1001,25000,NGN,pending,,true,none,Harbor Bank,******4821,2026-10-20T14:20:00+01:00,2026-10-20T14:35:00+01:00,
+TXN-000110,ACC-1005,15000,NGN,failed,BENEFICIARY_BANK_UNAVAILABLE,true,pending,Lagoon Bank,******1937,2026-10-21T09:10:00+01:00,2026-10-21T09:40:00+01:00,
+TXN-000118,ACC-1011,9000,NGN,failed,INVALID_ACCOUNT,true,completed,Savanna MFB,******0562,2026-10-22T07:05:00+01:00,2026-10-22T07:20:00+01:00,
+TXN-000125,ACC-1019,40000,NGN,failed,INSUFFICIENT_FUNDS,false,none,Crescent MFB,******7710,2026-10-23T11:00:00+01:00,2026-10-23T11:01:00+01:00,
+TXN-000140,ACC-0002,5000,NGN,success,,true,none,Delta Union Bank,******3348,2026-10-18T18:30:00+01:00,2026-10-18T18:32:00+01:00,

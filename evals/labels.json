@@ -1,0 +1,16 @@
+[
+  {
+    "ticket_id": "t001",
+    "category": "normal",
+    "expected_root_cause": "pending_bank_delay",
+    "expected_escalate": false,
+    "checks": []
+  },
+  {
+    "ticket_id": "t002",
+    "category": "not_found_or_conflict",
+    "expected_root_cause": "transaction_not_found",
+    "expected_escalate": true,
+    "checks": []
+  }
+]
