@@ -12,5 +12,12 @@
     "expected_root_cause": "transaction_not_found",
     "expected_escalate": true,
     "checks": []
+  },
+  {
+    "ticket_id": "t003",
+    "category": "normal",
+    "expected_root_cause": "reversal_in_progress",
+    "expected_escalate": false,
+    "checks": []
   }
 ]

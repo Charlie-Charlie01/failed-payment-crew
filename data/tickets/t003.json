@@ -1,0 +1,8 @@
+{
+  "ticket_id": "t003",
+  "created_at": "2026-10-21T15:10:00+01:00",
+  "channel": "in_app_chat",
+  "account_id": "ACC-1005",
+  "transaction_ref": "TXN-000110",
+  "message": "The app says my transfer failed but I was debited 15,000. Where is my money?"
+}
